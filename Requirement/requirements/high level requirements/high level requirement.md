@@ -1,6 +1,6 @@
-# High Level Requirements:
+ High Level Requirements:
 
-- A Mobile Calculator app that should perform simple calculations, scientific calculations and conversions
+- A GPA calculator that should perform inputs of grades , conversion of grades to specific standard scores or numbers assigned and calculating the GPA and percentage from the inputs. 
 - The Calculator was developed using standard C++ language and should run on all machines supporting gcc compiler.
 - Should display following menu bar to users like -
 
