@@ -1,8 +1,7 @@
 #include<iostream>
 #include "calc_percentage.h"
 using namespace std;
-int calc_gpa(float gpasum, int n){//This function calculates the gpa and percentile
-float percentile;//FINAL PERCENTILE
+int calc_gpa(float gpasum, int n){//This function calculates the gpa 
 static float cgpa=0;
 static int count=1;
 float gpa;//FINAL GPA
