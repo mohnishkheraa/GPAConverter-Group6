@@ -1,3 +1,8 @@
+Build | Cppcheck | Unity | [Git Inspector](https://99003592.github.io/Team2-TaskCalculator/result)
+------|----------|-------|--------------
+![C/C++ CI](https://github.com/99003592/Team2-TaskCalculator/workflows/C/C++%20CI/badge.svg) | ![Cppcheck](https://github.com/99003592/Team2-TaskCalculator/workflows/Cppcheck/badge.svg) | ![Unity - Unit Testing](https://github.com/99003592/Team2-TaskCalculator/workflows/Unity%20-%20Unit%20Testing/badge.svg) | ![Git Inspector](https://github.com/99003592/Team2-TaskCalculator/workflows/Git%20Inspector/badge.svg)
+
+
 # GPAConverter-Group6
 
 # Introduction
