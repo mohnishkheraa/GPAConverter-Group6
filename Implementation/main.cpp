@@ -1,13 +1,14 @@
 #include<iostream>
 #include "convert.h"
-#include <stdlib.h>
 static int count =1;
 using namespace std;
 void introduction(){
+
 cout<<"\t\t\t\t\t  \tWELCOME\n\n";
+
 cout<<"*****************************************THIS IS A GPA CALCULATOR*******************************************************\n\n";
+
 cout<<"PLEASE ENTER GRADES FROM A TO F.....\n\n";
- system("Color 7C");
 }
 int main()
 { int sem;
