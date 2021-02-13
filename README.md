@@ -45,3 +45,10 @@ WHAT- We are preparing a device that performs conversion of grades to the standa
 WHERE- This project will be accessible to anyone using a mobile phone or a PC and a working internet connection. Our project will be available on website.
 
 HOW- Firstly, we will take the number of subjects and accordingly the grades of each subjects then the grades are being converted into GPA(s) which are being predefined. These GPA(s) are being converted into percentages and these percentages are used to find the average. According to the final percentage the CGPA and the percentages are being shown.
+
+## SWOT Analysis
+﻿|<p>Strength</p><p>1. **Providing the option for the number of subjects for which the grades or percentage are to be calculated.**</p><p>2. **Can get result in both the percentile and in the grade format.**</p><p>3. **Gave the option to convert grade as well as GPA(s).**</p><p>4. **Provide exception handling for wrong inputs.**</p>|<p>Weakness</p><p>1. **Didn’t have an attractive GUI.**</p><p>2. **Grades types are predefined.**</p><p>3. **It cannot convert the American way of grading using GPA(s).**</p>|
+| :-: | :-: |
+|<p>Opportunity</p><p>1. **It lets student know where they stand among their colleagues.**</p><p>2. **Schools and colleges can use this to convert students GPA(s) and provide the correct percentile to the students.**</p>|<p>Threats</p><p>1. **As the calculations differs from board to board it can confuse students and can give a wrong idea to the student.**</p><p></p>|
+
+
