@@ -6,7 +6,8 @@
 
 1. Input the numbers of subjects and their grades
 2. GPA conversion
-3. Percentage conversion
+3. CGPA conversion
+4. Percentage conversion
 
 - On encountering a grade else then A, B, C, D, E, F the display should read &quot;Please enter grades between A, B, C, D, E, F
 - Includes buttons with alphabet A, B, C, D, E, F
