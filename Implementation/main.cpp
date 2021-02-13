@@ -25,6 +25,10 @@ for(int i=0;i<sem;i++){
     cout<<"\n\nEnter the number of subjects ";
     
     cin>>n;
+	while(n<=0){
+	cout<<"\nenter a positive number:\n";
+	cin>>n;
+}
     count++;
     convert(n);
 }
