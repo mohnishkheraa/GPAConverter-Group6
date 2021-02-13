@@ -1,15 +1,15 @@
 # GPAConverter-Group6
 
 # Introduction
-A device that performs conversion of grades to the standard number which is specified to that grade based on numeric data which are entered by pressing alphabetical data which are entered by pressing alphabetical and control keys which is also known as GPA calculating machine. A calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication and division and more sophisticated calculators can handle exponential operations, factorial, logarithms, trigonometric functions and hyperbolic functions. This calculator can handle GPA conversion from grades and percentage conversion from GPA.
+A device that performs conversion of grades to the standard number which is specified to that grade based on numeric data which are entered by pressing alphabetical data which are entered by pressing alphabetical and control keys which is also known as GPA calculating machine. A calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication and division and more sophisticated calculators can handle exponential operations, factorial, logarithms, trigonometric functions and hyperbolic functions. This calculator can handle GPA conversion from grades, CGPA conversion from GPA and percentage conversion from GPA.
 
 # Defining System
 Provide operations for the user to select one at a time.
-Can be used to perform any process that consists of a sequence of steps each of which applies one of the operations including input of subjects, followed by their respective grades then calculation of GPA or percentage.
-Can do some of the conversion of alphabetical grades into numerical GPA up to 10 and conversion of that GPA to percentage up to 100.
+Can be used to perform any process that consists of a sequence of steps each of which applies one of the operations including input of subjects, followed by their respective grades then calculation of GPA, CGPA or percentage.
+Can do some of the conversion of alphabetical grades into numerical GPA up to 10, CGPA up to 10 and conversion of that GPA to percentage up to 100.
 
 # High Level Requirements:
-A GPA calculator that should perform inputs of grades , conversion of grades to specific standard scores or numbers assigned and calculating the GPA and percentage from the inputs.
+A GPA calculator that should perform inputs of grades , conversion of grades to specific standard scores or numbers assigned and calculating the GPA, CGPA and percentage from the inputs.
 The Calculator was developed using standard C++ language and should run on all machines supporting gcc compiler.
 Should display following menu bar to users like -
 Input the numbers of subjects and their grades
@@ -27,6 +27,8 @@ On encountering a grades else then A, B, C, D, E, F he display should read & quo
 
 User can perform percentage to GPA conversion.
 
+User can perform GPA to CGPA conversion.
+
 In this project we use git hub repository to store the project for visual studio code for debugging the code
 
 Some other tools are used for making UML diagrams
@@ -41,10 +43,10 @@ It can be used to calculate the percentage using the Grades that an individual g
 This project is used by the universities/colleges, companies as well as by the students to calculate the percentages that an individual has scored, it is basically used when the individual wants to know his/her position as well as colleges can use it to rank the students.
 
 ## WHO- 
-College students will be benefited from this system who’re trying to calculate their GPA or overall Percentile.
+College students will be benefited from this system who’re trying to calculate their GPA or CGPA or overall Percentile.
 
 ## WHAT- 
-We are preparing a device that performs conversion of grades to the standard number which is specified to that grade based on numeric data. Then this device calculates the GPA and Percentage using a specific conversion formulae. Provides user to enter the number of subjects he/she wishes to calculate GPA or percentage of. User enters the grades and gets the calculated result by converting the grades into their respective Grade Points.
+We are preparing a device that performs conversion of grades to the standard number which is specified to that grade based on numeric data. Then this device calculates the GPA, CGPA and Percentage using a specific conversion formulae. Provides user to enter the number of subjects he/she wishes to calculate GPA, CGPA or percentage. User enters the grades and gets the calculated result by converting the grades into their respective Grade Points.
 
 ## WHERE- 
 This project will be accessible to anyone using a mobile phone or a PC and a working internet connection. Our project will be available on website.
@@ -54,7 +56,7 @@ Firstly, we will take the number of subjects and accordingly the grades of each 
 
 # SWOT Analysis
 ## Strength
-Providing the option for the number of subjects for which the grades or percentage are to be calculated.Can get result in both the percentile and in the grade format.
+Providing the option for the number of subjects for which the GPA, CGPA or percentage are to be calculated.Can get result in both the percentile and in the GPA, CGPA format.
 Gave the option to convert grade as well as GPA(s).Provide exception handling for wrong inputs.
 
 ## Weakness 
