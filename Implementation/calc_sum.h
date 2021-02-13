@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 int calc_sum(int arr[],int n){//this function calculates the sum of all the gpa
-    float gpasum; //sum of gpa's of all the subjects
+    float gpasum=0; //sum of gpa's of all the subjects
     
     for(int i=0;i<n;i++){ //loop to calculate the sum
         gpasum=gpasum+arr[i];
