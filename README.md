@@ -1,6 +1,6 @@
 Build | Cppcheck | Unity | [Git Inspector](https://99003592.github.io/Team2-TaskCalculator/result)
 ------|----------|-------|--------------
-![C/C++ CI](https://github.com/mohnishkheraa/GPAConverter-Group6/blob/main/.github/workflows/CI.yml) | ![Cppcheck](https://github.com/mohnishkheraa/GPAConverter-Group6/blob/main/.github/workflows/cppcheck.yml) | ![Unity - Unit Testing](https://github.com/mohnishkheraa/GPAConverter-Group6/blob/main/.github/workflows/test.yml) | ![Git Inspector](https://github.com/mohnishkheraa/GPAConverter-Group6/blob/main/.github/workflows/Inspect.yml)
+![C/C++ CI](https://github.com/mohnishkheraa/GPAConverter-Group6/blob/main/.github/workflows/CI.yml/badge.svg) | ![Cppcheck](https://github.com/mohnishkheraa/GPAConverter-Group6/blob/main/.github/workflows/cppcheck.yml/badge.svg) | ![Unity - Unit Testing](https://github.com/mohnishkheraa/GPAConverter-Group6/blob/main/.github/workflows/test.yml/badge.svg) | ![Git Inspector](https://github.com/mohnishkheraa/GPAConverter-Group6/blob/main/.github/workflows/Inspect.yml/badge.svg)
 
 
 # GPAConverter-Group6
