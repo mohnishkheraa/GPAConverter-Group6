@@ -34,21 +34,36 @@ Some other tools are used for making UML diagrams
 Minimum system requirement is need for the application to run.
 
 ## FEASIBILITY STUDY
-WHY- It can be used to calculate the percentage using the Grades that an individual gets, the percentage helps to evaluate that individual’s potential fully. Also these percentages are important in many sectors as placements, colleges and higher education studies.
+# WHY- 
+It can be used to calculate the percentage using the Grades that an individual gets, the percentage helps to evaluate that individual’s potential fully. Also these percentages are important in many sectors as placements, colleges and higher education studies.
 
-WHEN- This project is used by the universities/colleges, companies as well as by the students to calculate the percentages that an individual has scored, it is basically used when the individual wants to know his/her position as well as colleges can use it to rank the students.
+# WHEN- 
+This project is used by the universities/colleges, companies as well as by the students to calculate the percentages that an individual has scored, it is basically used when the individual wants to know his/her position as well as colleges can use it to rank the students.
 
-WHO- College students will be benefited from this system who’re trying to calculate their GPA or overall Percentile.
+# WHO- 
+College students will be benefited from this system who’re trying to calculate their GPA or overall Percentile.
 
-WHAT- We are preparing a device that performs conversion of grades to the standard number which is specified to that grade based on numeric data. Then this device calculates the GPA and Percentage using a specific conversion formulae. Provides user to enter the number of subjects he/she wishes to calculate GPA or percentage of. User enters the grades and gets the calculated result by converting the grades into their respective Grade Points.
+# WHAT- 
+We are preparing a device that performs conversion of grades to the standard number which is specified to that grade based on numeric data. Then this device calculates the GPA and Percentage using a specific conversion formulae. Provides user to enter the number of subjects he/she wishes to calculate GPA or percentage of. User enters the grades and gets the calculated result by converting the grades into their respective Grade Points.
 
-WHERE- This project will be accessible to anyone using a mobile phone or a PC and a working internet connection. Our project will be available on website.
+# WHERE- 
+This project will be accessible to anyone using a mobile phone or a PC and a working internet connection. Our project will be available on website.
 
-HOW- Firstly, we will take the number of subjects and accordingly the grades of each subjects then the grades are being converted into GPA(s) which are being predefined. These GPA(s) are being converted into percentages and these percentages are used to find the average. According to the final percentage the CGPA and the percentages are being shown.
+# HOW- 
+Firstly, we will take the number of subjects and accordingly the grades of each subjects then the grades are being converted into GPA(s) which are being predefined. These GPA(s) are being converted into percentages and these percentages are used to find the average. According to the final percentage the CGPA and the percentages are being shown.
 
 ## SWOT Analysis
-﻿|<p>Strength</p><p>1. **Providing the option for the number of subjects for which the grades or percentage are to be calculated.**</p><p>2. **Can get result in both the percentile and in the grade format.**</p><p>3. **Gave the option to convert grade as well as GPA(s).**</p><p>4. **Provide exception handling for wrong inputs.**</p>|<p>Weakness</p><p>1. **Didn’t have an attractive GUI.**</p><p>2. **Grades types are predefined.**</p><p>3. **It cannot convert the American way of grading using GPA(s).**</p>|
-| :-: | :-: |
-|<p>Opportunity</p><p>1. **It lets student know where they stand among their colleagues.**</p><p>2. **Schools and colleges can use this to convert students GPA(s) and provide the correct percentile to the students.**</p>|<p>Threats</p><p>1. **As the calculations differs from board to board it can confuse students and can give a wrong idea to the student.**</p><p></p>|
+# Strength
+Providing the option for the number of subjects for which the grades or percentage are to be calculated.Can get result in both the percentile and in the grade format.
+Gave the option to convert grade as well as GPA(s).Provide exception handling for wrong inputs.
+
+# Weakness 
+Didn’t have an attractive GUI.Grades types are predefined. It cannot convert the American way of grading using GPA(s).
+
+# Opportunity
+It lets student know where they stand among their colleagues. Schools and colleges can use this to convert students GPA(s) and provide the correct percentile to the students.
+
+# Threats
+As the calculations differs from board to board it can confuse students and can give a wrong idea to the student.
 
 
