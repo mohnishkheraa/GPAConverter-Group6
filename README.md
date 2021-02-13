@@ -1,14 +1,14 @@
 # GPAConverter-Group6
 
-## Introduction
+# Introduction
 A device that performs conversion of grades to the standard number which is specified to that grade based on numeric data which are entered by pressing alphabetical data which are entered by pressing alphabetical and control keys which is also known as GPA calculating machine. A calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication and division and more sophisticated calculators can handle exponential operations, factorial, logarithms, trigonometric functions and hyperbolic functions. This calculator can handle GPA conversion from grades and percentage conversion from GPA.
 
-## Defining System
+# Defining System
 Provide operations for the user to select one at a time.
 Can be used to perform any process that consists of a sequence of steps each of which applies one of the operations including input of subjects, followed by their respective grades then calculation of GPA or percentage.
 Can do some of the conversion of alphabetical grades into numerical GPA up to 10 and conversion of that GPA to percentage up to 100.
 
-## High Level Requirements:
+# High Level Requirements:
 A GPA calculator that should perform inputs of grades , conversion of grades to specific standard scores or numbers assigned and calculating the GPA and percentage from the inputs.
 The Calculator was developed using standard C++ language and should run on all machines supporting gcc compiler.
 Should display following menu bar to users like -
@@ -19,7 +19,7 @@ On encountering a grade else then A, B, C, D, E, F the display should read "Plea
 Includes buttons with alphabet A, B, C, D, E, F
 Calculator must provide with on, off and memory operations.
 
-## Low Level Requirements:
+# Low Level Requirements:
 
 The calculator has the following things like number from 0-9, number of subjects, percentage, GPA. In any situation the calculator has to produce a correct result defined by the well-known conversion standards. If the calculations is impossible the calculator has to display information helping the user to resolve the erroneous situation, like:
 
@@ -33,37 +33,37 @@ Some other tools are used for making UML diagrams
 
 Minimum system requirement is need for the application to run.
 
-## FEASIBILITY STUDY
-# WHY- 
+# FEASIBILITY STUDY
+## WHY- 
 It can be used to calculate the percentage using the Grades that an individual gets, the percentage helps to evaluate that individual’s potential fully. Also these percentages are important in many sectors as placements, colleges and higher education studies.
 
-# WHEN- 
+## WHEN- 
 This project is used by the universities/colleges, companies as well as by the students to calculate the percentages that an individual has scored, it is basically used when the individual wants to know his/her position as well as colleges can use it to rank the students.
 
-# WHO- 
+## WHO- 
 College students will be benefited from this system who’re trying to calculate their GPA or overall Percentile.
 
-# WHAT- 
+## WHAT- 
 We are preparing a device that performs conversion of grades to the standard number which is specified to that grade based on numeric data. Then this device calculates the GPA and Percentage using a specific conversion formulae. Provides user to enter the number of subjects he/she wishes to calculate GPA or percentage of. User enters the grades and gets the calculated result by converting the grades into their respective Grade Points.
 
-# WHERE- 
+## WHERE- 
 This project will be accessible to anyone using a mobile phone or a PC and a working internet connection. Our project will be available on website.
 
-# HOW- 
+## HOW- 
 Firstly, we will take the number of subjects and accordingly the grades of each subjects then the grades are being converted into GPA(s) which are being predefined. These GPA(s) are being converted into percentages and these percentages are used to find the average. According to the final percentage the CGPA and the percentages are being shown.
 
-## SWOT Analysis
-# Strength
+# SWOT Analysis
+## Strength
 Providing the option for the number of subjects for which the grades or percentage are to be calculated.Can get result in both the percentile and in the grade format.
 Gave the option to convert grade as well as GPA(s).Provide exception handling for wrong inputs.
 
-# Weakness 
+## Weakness 
 Didn’t have an attractive GUI.Grades types are predefined. It cannot convert the American way of grading using GPA(s).
 
-# Opportunity
+## Opportunity
 It lets student know where they stand among their colleagues. Schools and colleges can use this to convert students GPA(s) and provide the correct percentile to the students.
 
-# Threats
+## Threats
 As the calculations differs from board to board it can confuse students and can give a wrong idea to the student.
 
 
