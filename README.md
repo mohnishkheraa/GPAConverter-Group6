@@ -111,7 +111,7 @@ It lets student know where they stand among their colleagues. Schools and colleg
 ## Threats
 As the calculations differs from board to board it can confuse students and can give a wrong idea to the student.
 
-## Learning folder
+# Learning folder
 1. [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. [git inspector](https://github.com/ejwa/gitinspector.git)
 3. [github workflow](https://docs.github.com/en/actions/learn-github-action)
