@@ -1,8 +1,10 @@
+# GPAConverter-Group6
+
 [![Code Quality Score](https://www.code-inspector.com/project/18990/score/svg)](https://frontend.code-inspector.com/public/project/18990/GPAConverter-Group6/dashboard)
 [![Code Grade](https://www.code-inspector.com/project/18990/status/svg)](https://frontend.code-inspector.com/public/project/18990/GPAConverter-Group6/dashboard)
 
 
-# GPAConverter-Group6
+
 
 # Folder Structure
 Folder             | Description
