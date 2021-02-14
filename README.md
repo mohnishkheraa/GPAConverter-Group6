@@ -7,10 +7,21 @@
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
-`1_requirements`   | Documents detailing high level and  low  level requirements
-`2_design`         | Documents specifying structural and behavioural diagrams 
+`1_requirements`   | Documents detailing high level and  low  level requirements.
+`2_design`         | Documents specifying structural and behavioural diagrams.
 `3_implementation` | All code and documentation including sorce code and header files.
-`4_test_plan`      | Documents with test cases codes and there positive and negative outputs
+`4_test_plan`      | Documents with test cases codes and there positive and negative outputs.
+
+## Contributors List
+
+Name                           |   PS No.  |    Features    | Issuess Raised |      Issues Resolved         
+-------------------------------|-----------|----------------|----------------|------------------------------
+`1) Mohnish khera`             | 99003692  | Integrator    | on bugging     | bugging issue is resolved    
+`2) Saujanya Tailang`          | 99003688  | Calculating GPA | on operation   | operation issue is resolved  
+`3) Ishan Rawat`   | 99003691  | Convert grades to standard numbers      | error          | errors are resolved          
+`4) Sarvesh Anand`             | 99003687  | Calculating sum of  the grades     | error          | errors are resolved          
+`5) Pallavi Tomar`             | 99003689  | Calculating percentage      | on bugging     | bugging issue is resolved    
+ 
 
 ## Challenges
 
