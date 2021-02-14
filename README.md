@@ -37,7 +37,7 @@ Name | PS Number | No. of Test Cases | No. of Test Cases Passed | No. of Test Ca
 
 # Challenges
 
-1. We faced challenges in Unity Confuigration.
+1. We faced challenges in Unity Configuration.
 2. We faced challenges in unit testing.
 3. We faced challenges in git insprector
 4. We faced challenges in makefile
