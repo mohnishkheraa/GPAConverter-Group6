@@ -4,7 +4,7 @@
 
 # GPAConverter-Group6
 
-## Folder Structure
+# Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
 `1_requirements`   | Documents detailing high level and  low  level requirements.
@@ -12,7 +12,7 @@ Folder             | Description
 `3_implementation` | All code and documentation including sorce code and header files.
 `4_test_plan`      | Documents with test cases codes and there positive and negative outputs.
 
-## Contributors List
+# Contributors List
 
 Name                           |   PS No.  |    Features    | Issuess Raised |      Issues Resolved         
 -------------------------------|-----------|----------------|----------------|------------------------------
@@ -22,7 +22,7 @@ Name                           |   PS No.  |    Features    | Issuess Raised |  
 `4) Sarvesh Anand`             | 99003687  | Calculating sum of  the grades     | error          | errors are resolved          
 `5) Pallavi Tomar`             | 99003689  | Calculating percentage      | on bugging     | bugging issue is resolved    
 
-## Test Summary
+# Test Summary
 
 Name | PS Number | No. of Test Cases | No. of Test Cases Passed | No. of Test Cases not Passed 
 -----|-----------|-------------------|--------------------------|------------------------------
@@ -33,7 +33,7 @@ Name | PS Number | No. of Test Cases | No. of Test Cases Passed | No. of Test Ca
 `5) Pallavi Tomar`              | 99003689  | 3  | 3  | 0
  
 
-## Challenges
+# Challenges
 
 1. We faced challenges in Unity Confuigration.
 2. We faced challenges in unit testing.
@@ -108,5 +108,10 @@ It lets student know where they stand among their colleagues. Schools and colleg
 
 ## Threats
 As the calculations differs from board to board it can confuse students and can give a wrong idea to the student.
+
+## Learning folder
+1. [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [git inspector](https://github.com/ejwa/gitinspector.git)
+3. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
 
