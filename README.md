@@ -21,6 +21,16 @@ Name                           |   PS No.  |    Features    | Issuess Raised |  
 `3) Ishan Rawat`   | 99003691  | Convert grades to standard numbers      | error          | errors are resolved          
 `4) Sarvesh Anand`             | 99003687  | Calculating sum of  the grades     | error          | errors are resolved          
 `5) Pallavi Tomar`             | 99003689  | Calculating percentage      | on bugging     | bugging issue is resolved    
+
+## Test Summary
+
+Name | PS Number | No. of Test Cases | No. of Test Cases Passed | No. of Test Cases not Passed 
+-----|-----------|-------------------|--------------------------|------------------------------
+`1) Mohnish Khera` | 99003692  | 4  | 4  | 0
+`2) Saujanya Tailang`               | 99003588  | 4  | 4  | 0
+`3) Ishan Rawat`   | 99003589  | 3  | 3  | 0
+`4) Nalla Suryudu`             | 99003591  | 3  | 3  | 0
+`5) Abhisar Ekka`              | 99003592  | 3  | 3  | 0
  
 
 ## Challenges
