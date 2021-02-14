@@ -12,6 +12,14 @@ Folder             | Description
 `3_implementation` | All code and documentation
 `4_test_plan`      | Documents with test plans and procedures
 
+## Challenges
+
+1. We faced challenges in drawing UML's diagrams.
+2. We faced challenges in unit testing.
+3. We faced challenges in test plan
+4. We faced challenges in makefile
+
+
 # Introduction
 A device that performs conversion of grades to the standard number which is specified to that grade based on numeric data which are entered by pressing alphabetical data which are entered by pressing alphabetical and control keys which is also known as GPA calculating machine. A calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication and division and more sophisticated calculators can handle exponential operations, factorial, logarithms, trigonometric functions and hyperbolic functions. This calculator can handle GPA conversion from grades, CGPA conversion from GPA and percentage conversion from GPA.
 
