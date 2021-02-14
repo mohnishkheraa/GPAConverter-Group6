@@ -25,7 +25,7 @@ Name                           |   PS No.  |    Features    | Issuess Raised |  
 
 ## Challenges
 
-1. We faced challenges in drawing UML's diagrams.
+1. We faced challenges in Unity Confuigration.
 2. We faced challenges in unit testing.
 3. We faced challenges in git insprector
 4. We faced challenges in makefile
