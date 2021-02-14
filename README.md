@@ -29,8 +29,8 @@ Name | PS Number | No. of Test Cases | No. of Test Cases Passed | No. of Test Ca
 `1) Mohnish Khera` | 99003692  | 4  | 4  | 0
 `2) Saujanya Tailang`               | 99003588  | 4  | 4  | 0
 `3) Ishan Rawat`   | 99003589  | 3  | 3  | 0
-`4) Nalla Suryudu`             | 99003591  | 3  | 3  | 0
-`5) Abhisar Ekka`              | 99003592  | 3  | 3  | 0
+`4) Sarvesh Anand`             | 99003687  | 3  | 3  | 0
+`5) Pallavi Tomar`              | 99003689  | 3  | 3  | 0
  
 
 ## Challenges
