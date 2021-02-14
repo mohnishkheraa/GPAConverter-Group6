@@ -24,15 +24,19 @@ Name                           |   PS No.  |    Features    | Issuess Raised |  
 `4) Sarvesh Anand`             | 99003687  | Calculating sum of  the grades     | error          | errors are resolved          
 `5) Pallavi Tomar`             | 99003689  | Calculating percentage      | on bugging     | bugging issue is resolved    
 
-# Test Summary
+# TEST PLAN:
 
-Name | PS Number | No. of Test Cases | No. of Test Cases Passed | No. of Test Cases not Passed 
------|-----------|-------------------|--------------------------|------------------------------
-`1) Mohnish Khera` | 99003692  | 4  | 4  | 0
-`2) Saujanya Tailang`               | 99003588  | 4  | 4  | 0
-`3) Ishan Rawat`   | 99003589  | 3  | 3  | 0
-`4) Sarvesh Anand`             | 99003687  | 3  | 3  | 0
-`5) Pallavi Tomar`              | 99003689  | 3  | 3  | 0
+## Table no: High Level & Low Level Test Plan
+
+| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|    01       | **Calc_sum** To add two integers and display the result      |  35 , 65   |        100  |       100      |Requirement based |
+|    02       | **Calc_GPA** To calculate GPA                                |  57, 6     |        9.5  |       9.5      |Requirement based |
+|    03       | **Calc_percentage** To Calculate percentage- display result  |  541.5,6   |      90.25  |       90.25    |Requirement based |
+|    04       | **Number of Semesters** To take input of semesters           |  0         |        Error|       Error    |Requirement based |
+|    05       | **Calc_GPA** To calculate GPA                                |  01, 6     |        9.5  |       0.166    |Requirement based |
+|    06       | **Calc_percentage** To Calculate percentage- display result  |  5000,6    |      90.25  |       833.6    |Requirement based |
+
  
 
 # Challenges
