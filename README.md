@@ -16,7 +16,7 @@ Folder             | Description
 
 1. We faced challenges in drawing UML's diagrams.
 2. We faced challenges in unit testing.
-3. We faced challenges in test plan
+3. We faced challenges in git insprector
 4. We faced challenges in makefile
 
 
