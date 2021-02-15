@@ -43,8 +43,8 @@ Name                           |   PS No.  |    Features    | Issuess Raised |  
 
 1. We faced challenges in Unity Configuration.
 2. We faced challenges in unit testing.
-3. We faced challenges in git insprector
-4. We faced challenges in makefile
+3. We faced challenges in git inspector.
+4. We faced challenges in makefile.
 
 
 # Introduction
