@@ -2,7 +2,7 @@
 
 [![Code Quality Scores](https://www.code-inspector.com/project/18990/score/svg)](https://frontend.code-inspector.com/public/project/18990/GPAConverter-Group6/dashboard)
 [![Code Grade](https://www.code-inspector.com/project/18990/status/svg)](https://frontend.code-inspector.com/public/project/18990/GPAConverter-Group6/dashboard)
-
+![Testing](https://github.com/mohnishkheraa/GPAConverter-Group6/workflows/Testing/badge.svg)
 
 
 
