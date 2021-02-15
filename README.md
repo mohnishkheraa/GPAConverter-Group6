@@ -5,6 +5,7 @@
 ![Testing](https://github.com/mohnishkheraa/GPAConverter-Group6/workflows/Testing/badge.svg)
 ![Cppcheck](https://github.com/mohnishkheraa/GPAConverter-Group6/workflows/Cppcheck/badge.svg)
 ![C/C++ CI](https://github.com/mohnishkheraa/GPAConverter-Group6/workflows/C/C++%20CI/badge.svg)
+![Inspect](https://github.com/mohnishkheraa/GPAConverter-Group6/workflows/Inspect/badge.svg)
 
 # Folder Structure
 Folder             | Description
