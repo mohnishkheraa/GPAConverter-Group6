@@ -20,9 +20,9 @@ Name                           |   PS No.  |    Features    | Issuess Raised |  
 -------------------------------|-----------|----------------|----------------|------------------------------
 `1) Mohnish khera`             | 99003692  | Integrator    | on bugging     | bugging issue is resolved    
 `2) Saujanya Tailang`          | 99003688  | Calculating GPA | on operation   | operation issue is resolved  
-`3) Ishan Rawat`   | 99003691  | Convert grades to standard numbers      | error          | errors are resolved          
-`4) Sarvesh Anand`             | 99003687  | Calculating sum of  the grades     | error          | errors are resolved          
-`5) Pallavi Tomar`             | 99003689  | Calculating percentage      | on bugging     | bugging issue is resolved    
+`3) Ishan Rawat`         | 99003691  | Convert grades to standard numbers      | error          | errors are resolved          
+`4) Sarvesh Anand`             | 99003687  | Calculating sum of  the grades.     | error          | errors are resolved          
+`5) Pallavi Tomar`             | 99003689  | Calculating percentage.      | on bugging     | bugging issue is resolved    
 
 # TEST PLAN:
 
