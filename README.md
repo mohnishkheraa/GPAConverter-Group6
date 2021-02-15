@@ -4,7 +4,7 @@
 [![Code Grade](https://www.code-inspector.com/project/18990/status/svg)](https://frontend.code-inspector.com/public/project/18990/GPAConverter-Group6/dashboard)
 ![Testing](https://github.com/mohnishkheraa/GPAConverter-Group6/workflows/Testing/badge.svg)
 ![Cppcheck](https://github.com/mohnishkheraa/GPAConverter-Group6/workflows/Cppcheck/badge.svg)
-
+![C/C++ CI](https://github.com/mohnishkheraa/GPAConverter-Group6/workflows/C/C++%20CI/badge.svg)
 
 # Folder Structure
 Folder             | Description
